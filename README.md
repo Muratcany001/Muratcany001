@@ -20,6 +20,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4B33.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Sonarqube](https://img.shields.io/badge/Sonarqube-%23green.svg?style=for-the-badge&logo=sonarqubev&logoColor=black)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muratcany001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
