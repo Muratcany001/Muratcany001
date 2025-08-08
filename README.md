@@ -21,6 +21,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4B33.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![Sonarqube](https://img.shields.io/badge/Sonarqube-green.svg?style=for-the-badge&logo=sonarqube&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 
 # 📊 GitHub Stats:
