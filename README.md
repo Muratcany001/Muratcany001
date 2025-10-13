@@ -1,6 +1,6 @@
 
 
-# 💻 Abilities:
+# 💻 Abilities(Yetenekler):
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=green)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%230072AD.svg?style=for-the-badge&logo=aspdotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-%234682C4.svg?style=for-the-badge&logo=entity-framework&logoColor=white)
